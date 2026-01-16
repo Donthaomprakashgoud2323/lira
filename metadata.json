@@ -1,0 +1,7 @@
+{
+  "name": "Lira - Your Empathetic AI Companion",
+  "description": "Lira is a personal assistant designed to manage your tasks while providing emotional support and a pampering experience. Speak or chat with Lira for a truly human-like connection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
